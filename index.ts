@@ -14,7 +14,7 @@ process.on('uncaughtException', (err) => {
 
 const TEMPLATES = [{
     title: 'Nest + Typeorm + Sql server ',
-    value: 'nestProject'
+    value: 'nest-project'
 }]
 
 
